@@ -6,6 +6,11 @@ credentials*
 secrets*
 node_modules/
 __pycache__/
+.pytest_cache/
+.ruff_cache/
+*.lock
+*db.lock
+report.txt
 target/
 dist/
 build/
